@@ -10,7 +10,7 @@
 
 | 💼 Role | 🏢 Organization | 📌 Type | 🗓 Duration |
 |--------|----------------|--------|------------|
-| 🎓 Data Science Intern | IDEAS-TIH@ISI Kolkata | 🟡 Part-time | May 2026 – Jun 2026 |
+| 🎓 Data Science Intern | IDEAS-TIH@ISI Kolkata | 🔵 Internship | May 2026 – Jun 2026 |
 | 🧑‍🏫 Computer Science Teacher | Private Tutor | 🟡 Part-time | Nov 2024 – Present |
 | 💻 Software Engineering Job Simulation | Wells Fargo | 🔵 Internship | Mar 2026 |
 | 🤖 Robotics & Controls Simulation | Johnson & Johnson MedTech | 🔵 Internship | Oct 2025 |
